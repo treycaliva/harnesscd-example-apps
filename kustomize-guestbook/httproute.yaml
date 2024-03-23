@@ -15,5 +15,5 @@ spec:
             type: PathPrefix
             value: /
       backendRefs:
-        - name: guestbook-ui
+        - name: kustomize-guestbook-ui
           port: 80
